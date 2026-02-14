@@ -1,4 +1,4 @@
-Projekat je imitacija poznate igrice za telefon Flappy Bird. Komande: Na space se skače, na 1,2,3,4 se menjaju nivoi. Svaki nivo ima drugačiji vizuelni efekat. Projekat je pravljen u C++ koristeći OpenGL.
+Domaći zadatak iz predmeta Računarska grafika na Računarskom fakultetu. Projekat je imitacija poznate igrice za telefon Flappy Bird. Komande: Na space se skače, na 1,2,3,4 se menjaju nivoi. Svaki nivo ima drugačiji vizuelni efekat. Projekat je pravljen u C++ koristeći OpenGL.
 
 
 U korenu projekta se već nalazi kompajliran program, tako da je moguće pokrenuti ga bez kompajliranja. Izvršna datoteka sa kojom se pokreće projekat se zove main.exe.
